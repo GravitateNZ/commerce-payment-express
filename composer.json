@@ -28,9 +28,9 @@
     "rss": "https://github.com/platocreative/commerce-payment-express/commits/master.atom"
   },
   "require": {
-    "craftcms/cms": "^4.0.0-alpha",
-    "craftcms/commerce-omnipay": "^4.0.0",
-    "omnipay/paymentexpress": "v3.1.1"
+    "craftcms/cms": "^4.10.0",
+    "craftcms/commerce-omnipay": "^4.1.0",
+    "omnipay/paymentexpress": "^v3.1.1"
   },
   "autoload": {
     "psr-4": {
